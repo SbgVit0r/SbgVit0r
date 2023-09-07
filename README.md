@@ -6,4 +6,4 @@
 - 😄 Pronouns: Ele/Dele
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SbgVit0r&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbgVit0r theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SbgVit0r&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
