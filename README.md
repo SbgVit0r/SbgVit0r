@@ -1,7 +1,7 @@
 ### Olá!! Sou o Vitor Sbeghi!👋
 
 - 🔭 Atualmente em busca de um estágio
-- 🌱 Me aprofudando em HTML5 e CSS3
+- 🌱 Me aprofudando em Python e SQL
 - 📫 Email para contato: vitorsbg123@outlook.com
 - 😄 Pronouns: Qualquer um
 
@@ -11,8 +11,7 @@
 <!--Ícones das linguagens que ultilizo-->
 <div display="inline-block">
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"/>
-  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg"/>        
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"/>
 </div>
 
 
