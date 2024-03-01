@@ -19,9 +19,3 @@
 
   ##
 
-
-<!--Links para outros perfís-->
-<div>
-  [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
-&nbsp;
-</div>
