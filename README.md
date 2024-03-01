@@ -18,5 +18,7 @@
 
   ##
 
+<div>
+  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=grey">
+</div>
 
-  ![Static Badge](https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=grey&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fvitor-sbeghi-836051255%2F)
