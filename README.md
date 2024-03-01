@@ -19,6 +19,6 @@
   ##
 
 <div>
-  <img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=grey">
+  <a href="https://www.linkedin.com/in/vitor-sbeghi-836051255/"><img alt="Static Badge" src="https://img.shields.io/badge/LINKEDIN-black?style=for-the-badge&logo=linkedin&logoColor=%230A66C2&labelColor=grey"></a>
 </div>
 
