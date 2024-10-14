@@ -1,7 +1,6 @@
 ### Olá!! Sou o Vitor Sbeghi!👋
 
-- 🔭 Atualmente em busca de uma vaga para estágio/junior
-- 🌱 Me aprofudando em Python
+- 🌱 Me aprofudando em C
 - 📫 Email para contato: vitorsbg123@outlook.com
 - 😄 Pronouns: Qualquer um
 
